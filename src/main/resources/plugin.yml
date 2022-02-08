@@ -1,0 +1,6 @@
+main: de.simonsator.partyandfriends.main.PAFPlugin
+name: PartyAndFriends
+version: ${project.version}
+author: Simonsator
+softdepend: [ PlaceholderAPI ]
+softdepends: [ PlaceholderAPI ]
