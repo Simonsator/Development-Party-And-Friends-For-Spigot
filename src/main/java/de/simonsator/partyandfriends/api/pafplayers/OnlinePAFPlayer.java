@@ -15,6 +15,8 @@ public interface OnlinePAFPlayer extends PAFPlayer {
 
 	Location getLocation();
 
+	String getServerDisplayName();
+
 	boolean isOnline();
 
 	int changeSettingsWorth(int pSettingsID);
