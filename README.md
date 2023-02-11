@@ -3,7 +3,7 @@
 This plugin can be used as a maven dependency for plugins implementing stuff for the Spigot version of Party And
 Friends. You basically should only use this as a dependency if you want to manually convert a Player into a Bukkit
 Player into an OnlinePAFPlayer. All other APIs are the same as in
-the [BungeeCord version](https://github.com/Simonsator/BungeecordPartyAndFriends) and therefor that one should be used
+the [Bungeecord version](https://github.com/Simonsator/BungeecordPartyAndFriends) and therefor that one should be used
 as a dependency, as this is only a very stripped down version of Party And Friends for maven dependency purposes.
 
 ## How do I get a Party and convert a Bukkit Player into a PAFPlayer
