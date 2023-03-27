@@ -17,7 +17,7 @@ public void doSomething(Player pPlayer) {
 
 ## Maven dependency
 
-```
+```xml
 	<repositories>
 		<repository>
 			<id>simonsators Repo</id>
