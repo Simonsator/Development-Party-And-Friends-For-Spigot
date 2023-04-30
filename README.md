@@ -28,7 +28,7 @@ public void doSomething(Player pPlayer) {
 		<dependency>
 			<groupId>de.simonsator</groupId>
 			<artifactId>DevelopmentPAFSpigot</artifactId>
-			<version>1.0.67</version>
+			<version>1.0.239</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
